@@ -1,7 +1,7 @@
 import MovieScore from '../MovieScore';
 import { Link } from 'react-router-dom';
 
-export default function index() {
+export default function MovieCard() {
   const movie = {
     id: 1,
     image: 'https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg',
